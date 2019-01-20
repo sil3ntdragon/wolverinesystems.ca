@@ -14,7 +14,7 @@ googleAnalytics = ""
     #backgroundColor = "#494f5c"
     backgroundColor = "white"
     font = "Raleway" # should match the name on Google Fonts!
-    header_background = "img/logo.png"
+    #header_background = "img/logo.png"
     highlight = true
     highlightStyle = "solarized-dark"
     highlightLanguages = ["go", "haskell", "kotlin", "scala", "swift"]
@@ -58,12 +58,12 @@ googleAnalytics = ""
     name = "twitter"
     weight = 3
 
-[[menu.icon]]
-    url = "https://www.linkedin.com/in/username/"
-    name = "linkedin"
-    weight = 4
+#[[menu.icon]]
+#    url = "https://www.linkedin.com/in/username/"
+#    name = "linkedin"
+#    weight = 4
 
-[[menu.icon]]
-    url = "https://www.stackoverflow.com/username/"
-    name = "stack-overflow"
-    weight = 5
+#[[menu.icon]]
+#    url = "https://www.stackoverflow.com/username/"
+#    name = "stack-overflow"
+#    weight = 5
