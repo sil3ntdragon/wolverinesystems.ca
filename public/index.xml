@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wolverine_Systems</title>
+    <link>http://example.com/</link>
+    <description>Recent content on Wolverine_Systems</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 19 Jan 2019 22:27:41 -0500</lastBuildDate>
+    
+	<atom:link href="http://example.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Samsung SmartThings Hub</title>
+      <link>http://example.com/post/smartthings/</link>
+      <pubDate>Sat, 19 Jan 2019 22:27:41 -0500</pubDate>
+      
+      <guid>http://example.com/post/smartthings/</guid>
+      <description>Finally bought myself a Smartthings hub at Lowes. Nice price too - $79. The plan is to integrate some custom sensor designs and have a Bone Black or Raspi3 to act as man in the middle to the Smartthings Hub.
+Want to read more about me?</description>
+    </item>
+    
+    <item>
+      <title>About me</title>
+      <link>http://example.com/about/</link>
+      <pubDate>Sat, 19 Jan 2019 22:20:18 -0500</pubDate>
+      
+      <guid>http://example.com/about/</guid>
+      <description>Engineer by day, Crazy Engineer by night. And loving father and husband all day.</description>
+    </item>
+    
+    <item>
+      <title>Hello World!</title>
+      <link>http://example.com/post/hello-world/</link>
+      <pubDate>Sat, 19 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.com/post/hello-world/</guid>
+      <description>Welcome to my awesome blog!
+There&amp;rsquo;s not much yet, stay tuned!</description>
+    </item>
+    
+  </channel>
+</rss>
