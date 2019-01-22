@@ -1,4 +1,5 @@
-baseURL = "http://example.com/"
+#baseURL = "http://example.com/"
+baseURL = "https://www.wolverinesystems.ca/"
 languageCode = "en-us"
 title = "Wolverine_Systems"
 theme = "minimal"
