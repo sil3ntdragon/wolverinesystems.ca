@@ -1,7 +1,7 @@
 #baseURL = "http://example.com/"
 baseURL = "https://www.wolverinesystems.ca/"
 languageCode = "en-us"
-title = "Wolverine_Systems"
+title = "wolverine_systems"
 theme = "minimal"
 #disqusShortname = "username" # delete this to disable disqus comments
 googleAnalytics = ""
