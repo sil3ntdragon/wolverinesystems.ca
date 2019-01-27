@@ -49,7 +49,7 @@ googleAnalytics = ""
 # The list of available icons can be found at http://fontawesome.io/icons/
 
 [[menu.icon]]
-    url = "mailto:ronnie.wong@wolverinesystems.ca"
+    url = "mailto:blacksheep@wolverinesystems.ca"
     name = "envelope-o"
     weight = 1
 
