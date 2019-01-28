@@ -1,5 +1,6 @@
 ---
-title: "About Me"
+#title: "About Me"
 ---
 
-where am i?
+Engineer by day, Crazy Engineer by night. And loving father and husband all day.
+Passionate about analog design and autonomous vehicles.
