@@ -1,5 +1,5 @@
 ---
-title: "Sonosconnect"
+title: "Sonos Connect"
 date: 2019-01-28
 tags: []
 ---
